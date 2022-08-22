@@ -3,7 +3,7 @@
     padding: 0px;
     margin: 0px;
 }
-
+<!--  body section -->
 body {
    background:#f0f2f5;
    font-family: 'Poppins', sans-serif;
@@ -24,7 +24,7 @@ main{
     align-items: center;
     height: 80vh;
 }
-
+<!-- heading section -->
 .heading-section{
     display: flex;
     flex-direction: column;
@@ -193,13 +193,13 @@ main{
 #account{
     text-decoration: none;
 }
-
+<!-- ACCOUNT CREATED START -->
 .create-page{
     width: 100%;
     text-align: center;
     font-size: 14px;
 }
-
+<!-- FOOTER START -->
 .footer{
     display: flex;
     justify-content: center;
@@ -256,6 +256,7 @@ a:hover{
 .m-footer{
     display: none;
 }
+<!-- media screen start -->
 @media screen and (max-width: 760px) {
 
     main{
